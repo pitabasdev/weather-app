@@ -21,7 +21,7 @@ Welcome to the Weather App! This is a simple web application that allows you to 
 
 1. Clone the repository to your local machine.
 
-2. Open the `index.html` file in your web browser.
+2. Open the `weather.html` file in your web browser.
 
 3. Allow the app to access your location if prompted, or enter a location in the search bar.
 
