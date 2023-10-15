@@ -16,6 +16,7 @@ Welcome to the Weather App! This is a simple web application that allows you to 
 - CSS
 - JavaScript
 - [OpenWeather API](https://openweathermap.org/api) for weather data.
+![image](https://github.com/ahadsts9901/image-editor/assets/85897297/4c3e507f-4966-498d-ae58-acc1afcab6f4)
 
 ## How to Use
 
